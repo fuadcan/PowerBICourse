@@ -1,0 +1,15 @@
+﻿https://www.google.com/maps/place/Yenikap%C4%B1+%C4%B0stasyonu/@41.0597275,28.7852184,11z/data=!4m8!1m2!2m1!1syenikap%C4%B1+metro+istasyonu!3m4!1s0x14caba2a14bc9147:0xdcc275797f9b9008!8m2!3d41.00521!4d28.95172
+https://www.google.com/maps/place/Vezneciler/@41.012467,28.9573432,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab98eb6480f2b:0x87d8b3ba120a7684!8m2!3d41.012467!4d28.9595319
+https://www.google.com/maps/place/Haliç+Metro+Bridge/@41.0225432,28.964517,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9ee6af2d343:0xa94e87500a65f9dd!8m2!3d41.0225432!4d28.9667057
+https://www.google.com/maps/place/Şişhane+Metro/@41.0285168,28.9689073,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9e6b1f8693f:0x4be2df95b0f6cc88!8m2!3d41.0285168!4d28.971096
+https://www.google.com/maps/place/Taksim+Metro+Station/@41.0370098,28.9835794,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab76516511a25:0xa57ebd8aeae47cba!8m2!3d41.0370098!4d28.9857681
+https://www.google.com/maps/place/Osmanbey+Metro+Station/@41.0539486,28.9850504,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab712084fd725:0x17a1b29c6df06cb5!8m2!3d41.0539486!4d28.9872391
+https://www.google.com/maps/place/Mecidiyeköy/@41.0661411,28.9923916,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab6fe65cd700f:0x3676e0889e5bb40d!8m2!3d41.0661411!4d28.9945803
+https://www.google.com/maps/place/Gayrettepe+Metro+Istanbul/@41.0692203,29.0089333,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab6454ffb3261:0x912a109a4e093a8c!8m2!3d41.0692203!4d29.011122
+https://www.google.com/maps/place/Levent/@41.0781612,29.0114075,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab668316315e3:0x34b48169b9922ba5!8m2!3d41.0781612!4d29.0135962
+https://www.google.com/maps/place/4.Levent/@41.084812,29.0048545,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab664edab877f:0x5bcf3ea05d63f2ee!8m2!3d41.084812!4d29.0070432
+https://www.google.com/maps/place/Sanayi+%C4%B0stasyonu/@41.0906056,28.9937805,16z/data=!4m8!1m2!2m1!1ssanayi+mahallesi+metro+istasyonu!3m4!1s0x14cab67c0246458b:0x4133dc94c330b8c6!8m2!3d41.0938949!4d29.0046713
+https://www.google.com/maps/place/İTÜ-Ayaza%C4%9Fa+%C4%B0stasyonu/@41.1084793,29.0178551,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab5c182dc20af:0xd344ac55c96e910e!8m2!3d41.1084793!4d29.0200438
+https://www.google.com/maps/place/Atatürk+Oto+Sanayi+Vodafone+%C4%B0stasyonu/@41.1186985,29.021649,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab5afffffffff:0x3d39fda6e2a368e3!8m2!3d41.1186985!4d29.0238377
+https://www.google.com/maps/place/Darüşşafaka/@41.130156,29.0230753,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab575798a86fb:0x98c053d700440e25!8m2!3d41.130156!4d29.025264
+https://www.google.com/maps/place/Hacıosman+Metro/@41.13995,29.0289413,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab56efc12100f:0x57e807795f150f1d!8m2!3d41.13995!4d29.03113
