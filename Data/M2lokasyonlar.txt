@@ -1,4 +1,4 @@
-﻿https://www.google.com/maps/place/Yenikap%C4%B1+%C4%B0stasyonu/@41.0597275,28.7852184,11z/data=!4m8!1m2!2m1!1syenikap%C4%B1+metro+istasyonu!3m4!1s0x14caba2a14bc9147:0xdcc275797f9b9008!8m2!3d41.00521!4d28.95172
+﻿https://www.google.com/maps/place/Yenikapı+%C4%B0stasyonu/@41.0597275,28.7852184,11z/data=!4m8!1m2!2m1!1syenikap%C4%B1+metro+istasyonu!3m4!1s0x14caba2a14bc9147:0xdcc275797f9b9008!8m2!3d41.00521!4d28.95172
 https://www.google.com/maps/place/Vezneciler/@41.012467,28.9573432,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab98eb6480f2b:0x87d8b3ba120a7684!8m2!3d41.012467!4d28.9595319
 https://www.google.com/maps/place/Haliç+Metro+Bridge/@41.0225432,28.964517,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9ee6af2d343:0xa94e87500a65f9dd!8m2!3d41.0225432!4d28.9667057
 https://www.google.com/maps/place/Şişhane+Metro/@41.0285168,28.9689073,17z/data=!3m1!4b1!4m5!3m4!1s0x14cab9e6b1f8693f:0x4be2df95b0f6cc88!8m2!3d41.0285168!4d28.971096
